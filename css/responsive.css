@@ -1,0 +1,18 @@
+/* =========== media Query At xl View Port =========== */
+
+@media screen and (max-width: 1200px) {}
+
+
+/* =========== media Query At lg View Port =========== */
+
+@media screen and (max-width: 992px) {}
+
+
+/* =========== media Query At md View Port =========== */
+
+@media screen and (max-width: 768px) {}
+
+
+/* =========== media Query At sm View Port =========== */
+
+@media screen and (max-width: 576px) {}
